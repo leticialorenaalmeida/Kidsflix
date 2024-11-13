@@ -13,4 +13,24 @@ h2{
 
 section{
     color:#dd1548
+background: white
+padding-top: 80px;
+padding-bottom: 80px
+display: flex; /*
+justify-content: center: /*
+}
+
+.chamada-texto {
+margin-right:15%
+}
+
+img{
+heigth: 200px
+}
+
+.categoria-video{
+display: flex
+overflow-x auto; /* permite rolagem horizontal automatica quando o conteudo exceder a largura da tela 
+gap: 10px; /* adiciona espaçamento entre os elementos*/
+
 }
